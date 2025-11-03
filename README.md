@@ -13,6 +13,9 @@ npm install
 ```bash
 npm start
 ```
+A API estará rodando em https://ms-grava-lead.vercel.app
+
+Local: http://localhost:1126
 
 ## 📋 Endpoints
 
